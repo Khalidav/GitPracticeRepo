@@ -1,4 +1,6 @@
 # GitHub practice!
+Whats at the End Of File? Look closely :)
+
 Hello everyone! This is a fun dummy repository to practice and hone your GitHub skills. We're going to be using GitHub a LOT, so it's important you get good at all of this.
 
 ## Setting it Up
@@ -249,3 +251,6 @@ Here are some links to check out some more fun stuff to do with Github. Google c
 - https://git-scm.com/book/en/v2
 - https://help.github.com/articles/github-glossary/
 - https://guides.github.com/
+
+
+Congrats you found the FLAG, it is "br5adcrumbs"
